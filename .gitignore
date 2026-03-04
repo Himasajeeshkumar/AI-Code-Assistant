@@ -1,7 +1,8 @@
 dataset/
-*.faiss
-*.npy
 *.csv
+*.npy
+*.pkl
 __pycache__/
+.vscode/
 venv/
-.env
+myenv/
