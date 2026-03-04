@@ -1,0 +1,7 @@
+dataset/
+*.faiss
+*.npy
+*.csv
+__pycache__/
+venv/
+.env
